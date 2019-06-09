@@ -1,6 +1,6 @@
 ## End-to-End Machine Learning Project
 ### Welcome to Machine Learning Housing Corporation!
-In this project, I will build a model to predict the house price using [the Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). This data has 79 explanatory variables describing every aspect of residential homes in Ames, Iowa. My model will learn from this data and be able to predict the final price of each home. 
+In this project, I have built a model to predict the house price using [the Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). This data has 79 explanatory variables describing every aspect of residential homes in Ames, Iowa. My model learned from this data and was able to predict the final price of each home. 
 ### Frame the Problem
 As a data scientist, the first thing I do is to frame the problem:
 * It is clearly a typical supervised learning task since labeled training examples are given.
